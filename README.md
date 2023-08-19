@@ -1,6 +1,6 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=483D8B&height=120&section=header"/>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00FF00size=35&center=true&vCenter=true&width=1000&lines=HELLO,+My+name+is+Lucas+Bavaresco;I'm+35+years+old;I'm+from+Brazil;+Front-End+Developer;Be+Welcome!+:%29)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00FF00size=35&center=true&vCenter=true&width=1000&lines=HELLO,+My+name+is+Lucas+Bavaresco;I'm+35+years+old;I'm+from+Brazil;+Front-End+Developer+and+IT+Manager+(MSP);Be+Welcome!+:%29)](https://git.io/typing-svg)
 <p align="center">👨‍💻</p>
 <p align="center"><a href="https://lucas-bavaresco.github.io/Welcome2MyPage/" target="_blank"><img src="https://img.shields.io/badge/GitHub%20Pages-222222?style=for-the-badge&logo=GitHub%20Pages&logoColor=white" style="border-radius: 30px" target="_blank"></a></p>
 
@@ -23,13 +23,13 @@
 <a href = "mailto:cmp.1a.l.bavaresco.pereira@gmail.com"> <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
  </div>
  
- ### Main skills:
+ ### Main Hard-Skills (Dev):
 ![HTML5](https://img.shields.io/badge/HTML5-0D1117?style=for-the-badge&logo=html5&logoColor=E34F26)&nbsp;
 ![CSS3](https://img.shields.io/badge/CSS3-0D1117?style=for-the-badge&logo=css3&logoColor=4682B4)&nbsp;
 ![JavaScript](https://img.shields.io/badge/-JavaScript-0D1117?style=for-the-badge&logo=javascript&labelColor=0D1117)&nbsp;
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-0D1117?style=for-the-badge&logo=bootstrap&logoColor=563D7C)&nbsp;
 
-### Studying in this moment:
+### Currently Studying:
 ![React.js](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)&nbsp;
 
 <div align="center">
