@@ -1,6 +1,6 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=483D8B&height=120&section=header"/>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00FF00size=35&center=true&vCenter=true&width=1000&lines=HELLO,+My+name+is+Lucas+Bavaresco;I'm+35+years+old;I'm+from+Brazil;+Front-End+Developer+and+IT+Manager+(MSP);Be+Welcome!+:%29)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00FF00size=35&center=true&vCenter=true&width=1000&lines=HELLO,+My+name+is+Lucas+Bavaresco;+Front-End+Developer+and+IT+Manager+(MSP);Be+Welcome!+:%29)](https://git.io/typing-svg)
 <p align="center">👨‍💻</p>
 <p align="center"><a href="https://lucas-bavaresco.github.io/Welcome2MyPage/" target="_blank"><img src="https://img.shields.io/badge/GitHub%20Pages-222222?style=for-the-badge&logo=GitHub%20Pages&logoColor=white" style="border-radius: 30px" target="_blank"></a></p>
 
